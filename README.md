@@ -10,3 +10,17 @@ Pada implementasi ini, robot melakukan simulasi aktivitas pengambilan dan pengan
 2x beep saat place di Lobby BRAIL
 
 Lengan robot tidak digunakan, dan sesuai dengan sistem demonstrasi, hanya navigasi yang diaktifkan.
+
+Fitur Sistem
+
+Lokalisasi & Navigasi menggunakan Nav2
+
+Pembuatan peta melalui SLAM
+
+Waypoint Navigation otomatis
+
+Simulasi pick & place menggunakan buzzer
+
+Flow mission otomatis melalui delivery_node.py
+
+Launch file untuk menjalankan seluruh sistem
